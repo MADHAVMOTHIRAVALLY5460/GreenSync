@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "dist",
+  "outputDirectory": "public",
   "buildCommand": "npx expo export -p web"
   "rewrites": [
     {
