@@ -1,6 +1,6 @@
 {
-  "outputDirectory": "public",
-  "buildCommand": "expo export -p web --output-dir public"
+  "outputDirectory": "dist",
+  "buildCommand": "expo export -p web"
   "rewrites": [
     {
       "source": "/(.*)",
