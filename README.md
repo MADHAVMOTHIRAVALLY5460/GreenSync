@@ -27,5 +27,5 @@ APIs & Data: Google Maps Directions & Distance Matrix APIs
 
 Real-Time Sync: Polling / WebSockets for live location and status updates
 
-🌍 The Impact
+# 🌍 The Impact
 Green-Sync turns solo travel into a collaborative experience. It helps cut down the number of vehicles on the road during peak hours, significantly reducing traffic and emissions.
